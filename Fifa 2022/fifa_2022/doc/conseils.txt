@@ -3,3 +3,5 @@ afficher nos 3 variables dans un tableau def nunique
 retirer les goalkeeper pour les shots
 distance parcouru/temps joué pour voir si y'a des aberations
 mettre la vraie source de nos data set (opta)
+XG les ajouter
+describe
